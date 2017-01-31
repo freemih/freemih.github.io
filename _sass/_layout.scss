@@ -182,6 +182,7 @@
     margin-left: 0;
     font-family: Roboto;
     font-weight: 100;
+    background-color: hsla(212, 75%, 44%, 0.2);
     border-radius: 10px;
     list-style: none;
 
@@ -229,7 +230,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-    background-image: -webkit-linear-gradient(hsla(212, 100%, 0%, 0.31), hsla(212, 100%, 0%, 0));
+    background-image: -webkit-linear-gradient(hsla(212, 75%, 44%, 0.2), #FFFFFF);
     font-family: Roboto;
     font-weight: 100;
 
