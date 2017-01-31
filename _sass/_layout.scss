@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    background-color: hsla(60, 92%, 44%, 0.51);
+    background-color: hsla(60, 92%, 44%, 0.3);
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -101,7 +101,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: hsla(60, 92%, 44%, 0.51);
+    background-color: hsla(60, 92%, 44%, 0.15);
 }
 
 .footer-heading {
