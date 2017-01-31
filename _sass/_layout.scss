@@ -177,8 +177,9 @@
 
 .post-list {
     margin-left: 0;
+    font-family: Roboto;
     background-color: #ECECEE;
-    radius: 100%;
+    border-radius: 5px;
     list-style: none;
 
     > li {
@@ -188,11 +189,13 @@
 
 .post-meta {
     font-size: $small-font-size;
+    font-family: Roboto;
     color: $grey-color;
 }
 
 .post-link {
     display: block;
+    font-family: Roboto;
     font-size: 24px;
 }
 
@@ -203,10 +206,12 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    font-family: Roboto;
 }
 
 .post-title {
     font-size: 42px;
+    font-family: Roboto;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -217,6 +222,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    font-family: Roboto;
 
     h2 {
         font-size: 32px;
