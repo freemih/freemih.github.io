@@ -171,7 +171,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    background-color: hsla(242, 100%, 0%, 0.66);
 }
 
 .page-heading {
@@ -230,6 +229,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    background-image: -webkit-linear-gradient(hsla(212, 100%, 0%, 0.31), hsla(212, 100%, 0%, 0));
     font-family: Roboto;
     font-weight: 100;
 
