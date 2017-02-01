@@ -4,6 +4,10 @@ title:  "Skateboard"
 date:   2017-02-01 14:53:54 -0500  
 ---
 
+X: Mastered
+V: Meistens
+I: Paar Mal geschafft
+
 <table>
   <tr>
     <th>Trick</th>
@@ -15,55 +19,55 @@ date:   2017-02-01 14:53:54 -0500
   <tr>
     <td>Ollie</td>
     <td>
-
+      X
     </td>
     <td>
-
+      X
     </td>
     <td>
-
+      X
     </td>
     <td>
-
+      V
     </td>
   </tr><tr> </tr>
   <tr>
     <td>Pop-Shuvit</td>
     <td>
-
+      V
     </td>
     <td>
-
+      X
     </td>
     <td>
-
+      V
     </td>
     <td>
-
+      I
     </td>
   </tr><tr> </tr>
   <tr>
     <td>FS Pop-Shuvit</td>
     <td>
-
+      I
     </td>
     <td>
-
+      V
     </td>
     <td>
-
+      V
     </td>
     <td>
-
+      
     </td>
   </tr><tr> </tr>
   <tr>
     <td>BS 180</td>
     <td>
-
+      I
     </td>
     <td>
-
+      I
     </td>
     <td>
 
@@ -75,7 +79,7 @@ date:   2017-02-01 14:53:54 -0500
   <tr>
     <td>FS 180</td>
     <td>
-
+      I
     </td>
     <td>
 
@@ -90,10 +94,10 @@ date:   2017-02-01 14:53:54 -0500
   <tr>
     <td>Heelflip</td>
     <td>
-
+      V
     </td>
     <td>
-
+      I
     </td>
     <td>
 
@@ -105,7 +109,7 @@ date:   2017-02-01 14:53:54 -0500
   <tr>
     <td>Kickflip</td>
     <td>
-
+      I
     </td>
     <td>
 
@@ -299,6 +303,21 @@ date:   2017-02-01 14:53:54 -0500
   </tr><tr> </tr>
   <tr>
     <td>Hardflip</td>
+    <td>
+
+    </td>
+    <td>
+
+    </td>
+    <td>
+
+    </td>
+    <td>
+
+    </td>
+  </tr><tr> </tr>
+  <tr>
+    <td>Laserflip</td>
     <td>
 
     </td>
