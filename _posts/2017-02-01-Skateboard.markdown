@@ -4,9 +4,9 @@ title:  "Skateboard"
 date:   2017-02-01 14:53:54 -0500  
 ---
 
-X: Mastered
-V: Meistens
-I: Paar Mal geschafft
+<p>X: Mastered</p>
+<p>V: Meistens</p>
+<p>I: Paar Mal geschafft</p>
 
 <table>
   <tr>
