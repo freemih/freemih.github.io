@@ -16,7 +16,11 @@ date:   2017-02-08 11:05:36 -0500
 <div>
 <h4>Redux:</h4>
 <ul>
+  <li><a href='http://redux.js.org/docs/introduction/Motivation.html'>Introduction</a></li>
+  
   <li><a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a></li>
+  
+  <li><a href='https://egghead.io/courses/building-react-applications-with-idiomatic-redux'>Egghead Part II</a></li>
 
   <li><a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html'>Riesen Tutorial</a></li>
 
