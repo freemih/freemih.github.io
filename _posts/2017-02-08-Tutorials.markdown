@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title:  "React Tutorials" 
+title:  "Tutorials" 
 date:   2017-02-08 11:05:36 -0500  
 ---
 
@@ -66,4 +66,11 @@ date:   2017-02-08 11:05:36 -0500
 
   <li><a href='https://github.com/facebook/flux/tree/master/examples'>Flux Examples</a></li>
 </ul>  
+</div>
+
+<div>
+<h4>Python:</h4>
+<ul>
+  <li><a href='https://developers.google.com/edu/python/'>Google Kurs</a></li>
+</ul>
 </div>
