@@ -7,6 +7,8 @@ date:   2017-02-08 11:05:36 -0500
 
 https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 
+https://egghead.io/courses/getting-started-with-redux
+
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
 https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud
