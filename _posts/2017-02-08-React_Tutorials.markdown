@@ -22,7 +22,7 @@ date:   2017-02-08 11:05:36 -0500
 
   <li><a href='https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud'>Redux Middleware</a></li>
 
-  <li><a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9'>Redux manage date</a></li>
+  <li><a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9'>Redux manage data</a></li>
 </ul>
 </div>
 
