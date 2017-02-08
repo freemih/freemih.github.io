@@ -77,5 +77,6 @@ date:   2017-02-08 11:05:36 -0500
 <ul>
   <li><a href='https://developers.google.com/edu/python/'>Google Kurs</a></li>
   <li><a href='https://learnpythonthehardway.org/book/'>Learn Python the hard way</a></li>
+  <li><a href='https://de.udacity.com/course/developing-scalable-apps-in-python--ud858/'>Apps in Python</a></li>
 </ul>
 </div>
