@@ -4,6 +4,7 @@ title:  "React Tutorials"
 date:   2017-02-08 11:05:36 -0500  
 ---
 
+<div>
 <p>React:</p>
 <div>
 <p><a href='https://facebook.github.io/react/'>facebook/react</a></p>
@@ -12,8 +13,8 @@ date:   2017-02-08 11:05:36 -0500
 
 </div>
 
-<p>Redux:</p>
 <div>
+<p>Redux:</p>
   <p><a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a></p>
 
   <p><a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html'>Riesen Tutorial</a></p>
@@ -24,16 +25,16 @@ date:   2017-02-08 11:05:36 -0500
   
 </div>
 
-<p>Example Projects:</p>
 <div>
+<p>Example Projects:</p>
   <p><a href='https://www.codementor.io/christiannwamba/build-a-react-image-gallery-with-cloudinary-xh1cekno3'>Image Gallery</a></p>
 
   <p><a href='https://www.codementor.io/bhargavponnapalli/building-a-pokedex-with-react-1-gdxwr8wee'>Pokedex</a></p>
 
 </div>
 
-<p>Implementing:</p>
 <div>
+<p>Implementing:</p>
   <p><a href='https://www.codementor.io/rowland/handling-ajax-in-your-react-application-with-agility-0-du10866vz'>AJAX with Agility</a></p>
 
   <p><a href='https://www.codementor.io/thomastuts/integrate-google-maps-api-react-refs-du10842zd'>Google Maps API</a></p>
@@ -42,8 +43,8 @@ date:   2017-02-08 11:05:36 -0500
 
 </div>
 
-<p>React Native:</p>
 <div>
+<p>React Native:</p>
   <p><a href='http://facebook.github.io/react-native/'>facebook/react-native</a></p>
 
   <p><a href='http://www.reactnative.com/getting-started-with-react-native-and-redux/'>React Native + Redux</a></p>
@@ -54,8 +55,8 @@ date:   2017-02-08 11:05:36 -0500
 
 </div>
 
-<p>Flux:</p>
 <div>
+<p>Flux:</p>
   <p><a href='https://facebook.github.io/flux/'>facebook/flux</a></p>
 
   <p><a href='https://github.com/facebook/flux/tree/master/examples'>Flux Examples</a></p>
