@@ -4,47 +4,60 @@ title:  "React Tutorials"
 date:   2017-02-08 11:05:36 -0500  
 ---
 
-React:
-https://facebook.github.io/react/
+<p>React:</p>
+<div>
+<a href='https://facebook.github.io/react/'>facebook/react</a>
 
-https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+<a href='https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/'>Comprehensive Guide</a>
 
+</div>
 
-Redux:
-https://egghead.io/courses/getting-started-with-redux
+<p>Redux:</p>
+<div>
+  <a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a>
 
-http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+  <a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html'>Riesen Tutorial</a>
 
-https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud
+  <a href='https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud'>Redux Middleware</a>
 
-https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9
+  <a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9'>Redux manage date</a>
+  
+</div>
 
+<p>Example Projects:</p>
+<div>
+  <a href='https://www.codementor.io/christiannwamba/build-a-react-image-gallery-with-cloudinary-xh1cekno3'>Image Gallery</a>
 
-Example Projects:
-https://www.codementor.io/christiannwamba/build-a-react-image-gallery-with-cloudinary-xh1cekno3
+  <a href='https://www.codementor.io/bhargavponnapalli/building-a-pokedex-with-react-1-gdxwr8wee'>Pokedex</a>
 
-https://www.codementor.io/bhargavponnapalli/building-a-pokedex-with-react-1-gdxwr8wee
+</div>
 
+<p>Implementing:</p>
+<div>
+  <a href='https://www.codementor.io/rowland/handling-ajax-in-your-react-application-with-agility-0-du10866vz'>AJAX with Agility</a>
 
-Implementing:
-https://www.codementor.io/rowland/handling-ajax-in-your-react-application-with-agility-0-du10866vz
+  <a href='https://www.codementor.io/thomastuts/integrate-google-maps-api-react-refs-du10842zd'>Google Maps API</a>
 
-https://www.codementor.io/thomastuts/integrate-google-maps-api-react-refs-du10842zd
+  <a href='https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd'>Jest Testing</a>
 
-https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd
+</div>
 
+<p>React Native:</p>
+<div>
+  <a href='http://facebook.github.io/react-native/'>facebook/react-native</a>
 
-React Native:
-http://facebook.github.io/react-native/
+  <a href='http://www.reactnative.com/getting-started-with-react-native-and-redux/'>React Native + Redux</a>
 
-http://www.reactnative.com/getting-started-with-react-native-and-redux/
+  <a href='http://blog.thebakery.io/todomvc-with-react-native-and-redux/'>TODO-Liste</a>
 
-http://blog.thebakery.io/todomvc-with-react-native-and-redux/
+  <a href='https://wiredcraft.com/blog/native-soundcloud-android-app/'>Soundcloud Klon</a>
 
-https://wiredcraft.com/blog/native-soundcloud-android-app/
+</div>
 
+<p>Flux:</p>
+<div>
+  <a href='https://facebook.github.io/flux/'>facebook/flux</a>
 
-Flux:
-https://facebook.github.io/flux/
-
-https://github.com/facebook/flux/tree/master/examples
+  <a href='https://github.com/facebook/flux/tree/master/examples'>Flux Examples</a>
+  
+</div>
