@@ -5,7 +5,7 @@ date:   2017-02-08 11:05:36 -0500
 ---
 
 <div>
-<p>React:</p>
+<h4>React:</h4>
 <ul>
   <li><a href='https://facebook.github.io/react/'>facebook/react</a></li>
 
@@ -14,7 +14,7 @@ date:   2017-02-08 11:05:36 -0500
 </div>
 
 <div>
-<p>Redux:</p>
+<h4>Redux:</h4>
 <ul>
   <li><a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a></li>
 
@@ -27,7 +27,7 @@ date:   2017-02-08 11:05:36 -0500
 </div>
 
 <div>
-<p>Example Projects:</p>
+<h4>Example Projects:</h4>
 <ul>
   <li><a href='https://www.codementor.io/christiannwamba/build-a-react-image-gallery-with-cloudinary-xh1cekno3'>Image Gallery</a></li>
 
@@ -36,7 +36,7 @@ date:   2017-02-08 11:05:36 -0500
 </div>
 
 <div>
-<p>Implementing:</p>
+<h4>Implementing:</h4>
 <ul>
   <li><a href='https://www.codementor.io/rowland/handling-ajax-in-your-react-application-with-agility-0-du10866vz'>AJAX with Agility</a></li>
 
@@ -47,7 +47,7 @@ date:   2017-02-08 11:05:36 -0500
 </div>
 
 <div>
-<p>React Native:</p>
+<h4>React Native:</h4>
 <ul>
   <li><a href='http://facebook.github.io/react-native/'>facebook/react-native</a></li>
 
@@ -60,7 +60,7 @@ date:   2017-02-08 11:05:36 -0500
 </div>
 
 <div>
-<p>Flux:</p>
+<h4>Flux:</h4>
 <ul>
   <li><a href='https://facebook.github.io/flux/'>facebook/flux</a></li>
 
