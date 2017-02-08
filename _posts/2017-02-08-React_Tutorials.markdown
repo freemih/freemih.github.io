@@ -8,19 +8,19 @@ date:   2017-02-08 11:05:36 -0500
 <div>
 <p><a href='https://facebook.github.io/react/'>facebook/react</a></p>
 
-<p><a href='https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/'>Comprehensive Guide</a>
+<p><a href='https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/'>Comprehensive Guide</a></p>
 
 </div>
 
 <p>Redux:</p>
 <div>
-  <p><a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a>
+  <p><a href='https://egghead.io/courses/getting-started-with-redux'>Egghead (Founder of Redux)</a></p>
 
-  <p><a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html'>Riesen Tutorial</a>
+  <p><a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html'>Riesen Tutorial</a></p>
 
-  <p><a href='https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud'>Redux Middleware</a>
+  <p><a href='https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud'>Redux Middleware</a></p>
 
-  <p><a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9'>Redux manage date</a>
+  <p><a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9'>Redux manage date</a></p>
   
 </div>
 
