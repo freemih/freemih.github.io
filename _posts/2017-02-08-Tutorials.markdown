@@ -72,5 +72,6 @@ date:   2017-02-08 11:05:36 -0500
 <h4>Python:</h4>
 <ul>
   <li><a href='https://developers.google.com/edu/python/'>Google Kurs</a></li>
+  <li><a href='https://learnpythonthehardway.org/book/'>Learn Python the hard way</a></li>
 </ul>
 </div>
