@@ -8,8 +8,8 @@ date:   2017-02-08 11:05:36 -0500
 <h4>React:</h4>
 <ul>
   <li><a href='https://facebook.github.io/react/' target="_blank">facebook/react</a></li>
-
   <li><a href='https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/' target="_blank">Comprehensive Guide</a></li>
+  <li><a href='https://egghead.io/courses/react-fundamentals'>Egghead Tutorial</a></li>
 </ul>
 </div>
 
@@ -18,9 +18,9 @@ date:   2017-02-08 11:05:36 -0500
 <ul>
   <li><a href='http://redux.js.org/docs/introduction/Motivation.html' target="_blank">Introduction</a></li>
   
-  <li><a href='https://egghead.io/courses/getting-started-with-redux' target="_blank">Egghead (Founder of Redux)</a></li>
+  <li><a href='https://egghead.io/courses/getting-started-with-redux' target="_blank">Getting Started</a></li>
   
-  <li><a href='https://egghead.io/courses/building-react-applications-with-idiomatic-redux' target="_blank">Egghead Part II</a></li>
+  <li><a href='https://egghead.io/courses/building-react-applications-with-idiomatic-redux' target="_blank">Idiomatic Redux (App building)</a></li>
 
   <li><a href='http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html' target="_blank">Riesen Tutorial</a></li>
 
