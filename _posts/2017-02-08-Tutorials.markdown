@@ -12,8 +12,7 @@ date:   2017-02-08 11:05:36 -0500
   <li><a href='https://egghead.io/courses/react-fundamentals' target="_blank">Egghead Tutorial</a></li>
 </ul>
 </div>
-
-<div>
+<p><a href='https://egghead.io/courses/get-started-with-postgresql' target="_blank">PostgreSQL </a></p><div>
 <h4>Redux:</h4>
 <ul>
   <li><a href='http://redux.js.org/docs/introduction/Motivation.html' target="_blank">Introduction</a></li>
