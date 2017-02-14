@@ -10,6 +10,7 @@ date:   2017-02-08 11:05:36 -0500
   <li><a href='https://facebook.github.io/react/' target="_blank">facebook/react</a></li>
   <li><a href='https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/' target="_blank">Comprehensive Guide</a></li>
   <li><a href='https://egghead.io/courses/react-fundamentals' target="_blank">Egghead Tutorial</a></li>
+  <li><a href='https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx' target="_blank">MobX</a></li>
 </ul>
 </div>
 
