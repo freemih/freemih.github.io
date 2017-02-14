@@ -12,7 +12,7 @@ date:   2017-02-08 11:05:36 -0500
   <li><a href='https://egghead.io/courses/react-fundamentals' target="_blank">Egghead Tutorial</a></li>
 </ul>
 </div>
-<p><a href='https://egghead.io/courses/get-started-with-postgresql' target="_blank">PostgreSQL </a></p>
+
 <div>
 <h4>Redux:</h4>
 <ul>
@@ -28,6 +28,18 @@ date:   2017-02-08 11:05:36 -0500
 
   <li><a href='https://www.codementor.io/vijayst/react-app-with-redux-to-manage-data-flows-du10884g9' target="_blank">Redux manage data</a></li>
 </ul>
+</div>
+
+<div>
+<h4>JavaScript</h4>
+<ul>
+  <li><a href='https://egghead.io/courses/learn-es6-ecmascript-2015' target="_blank">Learn ES6</a></li>
+  <li><a href='https://egghead.io/courses/gif-loop-coder-for-creating-animation' target="_blank">GIF Loop coder</a></li>
+  <li><a href='https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop' target="_blank">Asynchronous Programming</a></li>
+  <li><a href='https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript' target="_blank">Composable Functional JavaScript</a></li>
+  <li><a href='https://egghead.io/courses/natural-language-processing-in-javascript-with-natural' target="_blank">Natural Language Processing</a></li>
+</ul>
+<p><a href='https://egghead.io/courses/get-started-with-postgresql' target="_blank">PostgreSQL </a></p>
 </div>
 
 <div>
