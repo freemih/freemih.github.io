@@ -40,7 +40,8 @@ date:   2017-02-08 11:05:36 -0500
   <li><a href='https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript' target="_blank">Composable Functional JavaScript</a></li>
   <li><a href='https://egghead.io/courses/natural-language-processing-in-javascript-with-natural' target="_blank">Natural Language Processing</a></li>
 </ul>
-<p><a href='https://egghead.io/courses/get-started-with-postgresql' target="_blank">PostgreSQL </a></p>
+<p><a href='https://egghead.io/courses/getting-started-with-express-js' target="_blank">Express.js</a></p>
+<p><a href='https://egghead.io/courses/get-started-with-postgresql' target="_blank">PostgreSQL</a></p>
 </div>
 
 <div>
